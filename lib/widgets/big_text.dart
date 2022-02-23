@@ -22,7 +22,7 @@ class BigText extends StatelessWidget {
       text,
       maxLines: 1,
       overflow: textOverflow,
-      style: GoogleFonts.actor(fontSize: size, color: color, fontWeight: FontWeight.w400),
+      style: GoogleFonts.roboto(fontSize: size, color: color, fontWeight: FontWeight.w600),
     );
   }
 }

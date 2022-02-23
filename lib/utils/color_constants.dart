@@ -1,10 +1,11 @@
 import 'package:flutter/material.dart';
 
 class ColorContants{
-  static const Color color_big_text = Color.fromRGBO(120, 147, 149,100);
+  static const Color color_big_text = Color(0xff191919);
   static const Color color_small_text = Color.fromRGBO(47, 47, 47,100);
-  static const Color color_icon = Color.fromRGBO(148, 180, 159,100);
-  static const Color color_icon2 = Color.fromRGBO(180, 207, 176,100);
-  static const Color background_color = Color.fromRGBO(229, 227, 201,100);
+  static const Color color_icon2 = Color(0xffC84B31);
+  static const Color color_icon = Color(0xff2D4263);
+  static const Color background_color = Color(0xffECDBBA);
+  static const Color dark_text_color = Color(0xff191919);
 
 }
